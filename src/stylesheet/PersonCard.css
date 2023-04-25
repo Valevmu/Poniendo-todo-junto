@@ -1,0 +1,10 @@
+.contenedor {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+.titulo-nombre {
+    font-weight: 50;
+
+}
